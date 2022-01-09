@@ -549,6 +549,22 @@ label {
     background-color: #FF2F2F;
 }
 
+.red2 {
+    background-color: #D5001F;
+}
+
+.lightblue {
+    background-color: #B4D0E7;
+}
+
+.blu2 {
+    background-color: #0D2481;
+}
+
+.yellow {
+    background-color: #FFD830;
+}
+
 .teamSide::after {
     display: block;
     content: '';
